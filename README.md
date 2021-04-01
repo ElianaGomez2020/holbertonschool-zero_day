@@ -41,8 +41,8 @@ The first project was to configure the development environment and learn how to 
         
 </p>
 
-## Made with :heart: in
-<img src="https://www.holbertonschool.com/holberton-logo.png"
+## Made with in
+<img src="https://www.holbertonschool.com/holberton-logo.png  width"200"
      alt="Flow chart"
      style="float: left; margin-right: 10px;">
 
