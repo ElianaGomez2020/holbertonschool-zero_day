@@ -43,8 +43,7 @@ The first project was to configure the development environment and learn how to 
 
 ## Made with in
 <img src="https://www.holbertonschool.com/holberton-logo.png  "
-     alt="Flow chart"
-     style="float: left; margin-right: 10px;" width"200">
+     alt="Flow chart"style="float: left; margin-right: 10px;" >
 
 __Holberton School - Colombia__
 __Foundations - System engineering & DevOps - Bash__
