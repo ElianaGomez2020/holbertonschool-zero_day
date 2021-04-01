@@ -6,14 +6,8 @@
           <a href="https://github.com/ellerbrock/open-source-badges/">
                <img alt="bash" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103" target="_blank" />
           </a>
-          <a href="https://github.com/ElianaGomez2020/holbertonschool-zero_day/commits/master">
-               <img alt="commit_activity" src="https://img.shields.io/github/commit-activity/y/ElianaGomez2020/holbertonschool-zero_day" target="_blank" />
-          </a>
           <a href="https://github.com/ElianaGomez2020/holbertonschool-zero_day/graphs/contributors">
                <img alt="contributors" src="https://img.shields.io/github/contributors/ElianaGomez2020/holbertonschool-zero_day" target="_blank" />
-          </a>
-          <a href="https://github.com/ElianaGomez2020/holbertonschool-zero_day" target="_blank">
-               <img alt="code-size" src="https://img.shields.io/github/languages/code-size/ElianaGomez2020/holbertonschool-zero_day" />
           </a>
           <a href="https://github.com/ElianaGomez2020/holbertonschool-zero_day" target="_blank">
                <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
